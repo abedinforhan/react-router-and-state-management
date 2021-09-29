@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom';
 
 const Employee = () => {
 
-    // const [employees, setEmployees]= useState([])
+    const [employees, setEmployees]= useState([])
 
     const [displayEmployees, setDisplayEmployees]=useState([])
 
@@ -26,7 +26,7 @@ const Employee = () => {
          fetch('/employeeData.json')
          .then(res=>res.json())
          .then(data=> {
-            //  setEmployees(data)
+             setEmployees(data)
              setDisplayEmployees(data)
             })
     }, [])
