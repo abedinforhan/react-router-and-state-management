@@ -1,0 +1,125 @@
+[
+  {
+    "id": "emp121",
+    "name": "Jhankar  Mahabub",
+    "designation": "CEO  & FGounder",
+    "image": "https://i.ibb.co/3NCjxQj/image.png"
+  },
+  {
+    "id": "emp152",
+    "name": "Karina Islam",
+    "designation": "Advisor",
+    "image": "https://i.ibb.co/Ydd2tXn/image.png"
+  },
+  {
+    "id": "emp173",
+    "name": " Rasel Ahmed",
+    "designation": "Product  Manger",
+    "image": "https://i.ibb.co/9YPVD1v/1625419447111.png"
+  },
+
+  {
+    "id": "emp182",
+    "name": "Sufi Ahmed Hamim",
+    "designation": "Product Designer",
+    "image": "https://i.ibb.co/N9WMr4f/image.png"
+  },
+  {
+    "id": "emp192",
+    "name": "Rezaul Karim",
+    "designation": "Product   Manager",
+    "image": "https://i.ibb.co/WcS6RxF/image.png"
+  },
+
+  {
+    "id": "wmp192",
+    "name": "Emdadul Hoque Tareque",
+    "designation": "Assistant Manager",
+    "image": "https://i.ibb.co/bK3SW0G/image.png"
+  },
+  {
+    "id": "cmp122",
+    "name": "Israfil Hossen",
+    "designation": "Support Instructor",
+    "image": "https://i.ibb.co/4tGZjNH/image.png"
+  },
+  {
+    "id": "dmp122",
+    "name": "Mezbaul Abedin Forhan",
+    "designation": "Senior Support Instructor",
+    "image": "https://i.ibb.co/hYR64bV/image.png"
+  },
+
+  {
+    "id": "hmp122",
+    "name": "Md. Gias Uddin",
+    "designation": "Support Instructor",
+    "image": "https://i.ibb.co/MBxbp2R/237486074-3066869396931612-1250967033262156293-n.jpg"
+  },
+  {
+    "id": "imp122",
+    "name": "Sagar Biswas",
+    "designation": "Support Instructor",
+    "image": "https://i.ibb.co/sm3Twnw/image.png"
+  },
+  {
+    "id": "zmp122",
+    "name": "Raju Biswas",
+    "designation": "Support Instructor",
+    "image": "https://i.ibb.co/mHny19M/image.png"
+  },
+  {
+    "id": "jmp122",
+    "name": "Md. Asif Iqbal",
+    "designation": "Support Instructor",
+    "image": "https://i.ibb.co/XJrCgj7/image.png"
+  },
+  {
+    "id": "kmp122",
+    "name": "Mohammad Shabaj Khan",
+    "designation": "Support Instructor",
+    "image": "https://i.ibb.co/z8jwPd6/image.png"
+  },
+  {
+    "id": "lmp122",
+    "name": "Md. Nur-E-Alom Siddiky",
+    "designation": "Support Instructor",
+    "image": "https://i.ibb.co/VWxsx9C/DSC2618.jpg"
+  },
+  {
+    "id": "mmp122",
+    "name": "Azizul Islam Milton",
+    "designation": "Support Instructor",
+    "image": "https://i.ibb.co/TqV0YJq/miltonimgbb.jpg"
+  },
+  {
+    "id": "nmp122",
+    "name": "Md. Al-amin Howlader",
+    "designation": "Support Instructor",
+    "image": "https://i.ibb.co/tJ34mcY/banner.png"
+  },
+  {
+    "id": "omp122",
+    "name": "MD Sakib Ahmed",
+    "designation": "Support Instructor",
+    "image": "https://i.ibb.co/YDKWMfm/image.png"
+  },
+  {
+    "id": "pmp122",
+    "name": "Misbah Uddin Faroque",
+    "designation": "Support Instructor",
+    "image": "https://i.ibb.co/xzSLYS0/image.png"
+  },
+  {
+    "id": "qmp122",
+    "name": "Muktadir Hassan",
+    "designation": "Junior Backend Developer, Web",
+    "image": "https://i.ibb.co/Dw2J0V3/image.png"
+  },
+  {
+    "id": "rmp122",
+    "name": "Roky Das",
+    "designation": "Junior App Developer,Neptune",
+    "image": "https://i.ibb.co/smwmXTh/image.png"
+  }
+]
